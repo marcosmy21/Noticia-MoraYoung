@@ -1,0 +1,18 @@
+@keyframes aparecer {
+   0% {
+     opacity: 0;
+   }
+   100% {
+     opacity: 1;
+   }
+}
+
+ .imgLogo{
+  animation-duration: 8s;
+  animation-name: aparecer;
+  animation-iteration-count: 1;
+}
+
+.imgLogo{
+  width: 5vw;
+}

@@ -1,0 +1,64 @@
+@media only screen and (min-width: 0px) and (max-width: 768px){
+	/*INDEX*/
+	.flexF{
+		display: flex;
+		display: inline-block;
+	}
+
+	.titulosPaginas{
+		padding: 1vw 35vw;
+	}
+
+	.imgRollheiser{
+		width: 90vw;
+	}
+
+	.imgVolcan{
+		padding-left: 10vw;
+	}
+
+	.imgXbox{
+		width: 90vw;
+	}
+
+	.imgMessi{
+		width: 90vw;
+	}
+
+	.imgLogo{
+		width: 15vw;
+	}
+
+	.videoJJOO{
+		width: 90vw;
+	}
+
+	.imgDuki{
+		width: 90vw;
+	}
+
+	.padding-nav{
+	padding-left: 23vw;
+	padding-right: 23vw;
+	}
+
+	.padding-nav-a{
+	padding-left: 10vw!important;
+	}
+
+	.div{
+		display: flex;
+		justify-content: center;
+	}
+
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 768px){
+	/*PAGINA*/
+	.imgPagina{
+	padding-left: 22vw;
+	padding-top: 25vw;
+	padding-bottom: 25vw;
+	}
+}
