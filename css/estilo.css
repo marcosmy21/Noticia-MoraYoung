@@ -1,0 +1,145 @@
+.backg-image {
+  background-image: url(../assets/images/freepik-blanca-puntos-234567.jpg);
+  padding: 2vw 0vw; }
+
+@keyframes aparecer {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+.imgLogo {
+  animation-duration: 8s;
+  animation-name: aparecer;
+  animation-iteration-count: 1; }
+
+.imgLogo {
+  width: 5vw; }
+
+@font-face {
+  font-family: JosefinSans;
+  src: url(../assets/fonts/JosefinSans-Italic-VariableFont_wght.ttf); }
+
+.padding-nav {
+  padding-left: 15vw;
+  padding-right: 15vw; }
+
+.padding-nav-a {
+  padding-left: 3vw !important;
+  padding-right: 3vw !important;
+  font-family: JosefinSans;
+  font-size: 3vh; }
+
+.navbar {
+  padding-bottom: 1vw; }
+
+.titulo {
+  padding: 2vw 0vw; }
+
+.titulosPaginas {
+  padding: 1vw 45vw; }
+
+/*QUE HACEMOS?*/
+.justify-content {
+  display: flex;
+  justify-content: center; }
+
+/*INDEX*/
+.imgRollheiser {
+  width: 32vw;
+  padding-top: 3vw;
+  padding-right: 1vw; }
+
+.imgXbox {
+  padding-top: 3vw; }
+
+.imgVolcan {
+  padding-left: 3vw; }
+
+/*NOTICIAS*/
+.videoJJOO {
+  width: 32vw; }
+
+.imgMessi {
+  width: 32vw; }
+
+.imgDuki {
+  width: 32vw; }
+
+.imgApple {
+  padding-left: 3vw; }
+
+/*PAGINA*/
+.imgPagina {
+  padding-left: 39vw;
+  padding-top: 12vw;
+  padding-bottom: 12vw; }
+
+/*QUE HACEMOS?*/
+.imgRedactando {
+  width: 70vw; }
+
+.center2 {
+  display: flex;
+  justify-content: center; }
+
+.center {
+  padding: 2vw 0vw;
+  font-size: 3vh; }
+
+@media only screen and (min-width: 0px) and (max-width: 768px) {
+  /*INDEX*/
+  .flexF {
+    display: flex;
+    display: inline-block; }
+  .titulosPaginas {
+    padding: 1vw 35vw; }
+  .imgRollheiser {
+    width: 90vw; }
+  .imgVolcan {
+    padding-left: 10vw; }
+  .imgXbox {
+    width: 90vw; }
+  .imgMessi {
+    width: 90vw; }
+  .imgLogo {
+    width: 15vw; }
+  .videoJJOO {
+    width: 90vw; }
+  .imgDuki {
+    width: 90vw; }
+  .padding-nav {
+    padding-left: 23vw;
+    padding-right: 23vw; }
+  .padding-nav-a {
+    padding-left: 10vw !important; }
+  .div {
+    display: flex;
+    justify-content: center; } }
+
+@media only screen and (min-width: 0px) and (max-width: 768px) {
+  /*PAGINA*/
+  .imgPagina {
+    padding-left: 22vw;
+    padding-top: 25vw;
+    padding-bottom: 25vw; } }
+
+.linkInstagram {
+  font-size: 1vw;
+  font-family: sans-serif;
+  color: rebeccapurple; }
+
+.flexF {
+  display: flex; }
+
+.div {
+  padding-left: 1vw; }
+
+/*CONTACTO*/
+.rowContacto {
+  padding: 4vw 0vw; }
+
+/*SOCIOS*/
+.rowSocios {
+  background-image: url(../assets/images/freepik-blanca-puntos-234567.jpg);
+  padding: 2vw 0vw; }
