@@ -21,11 +21,11 @@
 }
 
 .imgMessi{
-	width: 32vw;
+	@extend .videoJJOO;
 }
 
 .imgDuki{
-	width: 32vw;
+	@extend .videoJJOO;
 }
 
 .imgApple{

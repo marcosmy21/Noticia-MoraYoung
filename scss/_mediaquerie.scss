@@ -1,8 +1,8 @@
 @media only screen and (min-width: 0px) and (max-width: 768px){
 	/*INDEX*/
 	.flexF{
-		display: flex;
-		display: inline-block;
+		display: flex!important;
+		display: inline-block!important;
 	}
 
 	.titulosPaginas{
@@ -49,7 +49,7 @@
 	.div{
 		display: flex;
 		justify-content: center;
-	}
+	} 
 
 
 }
