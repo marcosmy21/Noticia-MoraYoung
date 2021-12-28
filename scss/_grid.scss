@@ -1,0 +1,30 @@
+.gridContainer{
+	display: grid;
+	grid-template-areas:
+	"nav"
+	"titulo"
+	"priNot"
+	"segNot"
+	"terNot"
+	"footer";
+	grid-template-rows: 6vw 9vw 30vw 27vw 27vw 25vw;
+}
+
+.footer{
+	grid-area: footer;
+}
+.nav{
+	grid-area: nav;
+}
+.titulo{
+	grid-area: titulo;
+}
+.priNot{
+	grid-area: priNot;
+}
+.segNot{
+	grid-area: segNot;
+}
+.terNot{
+	grid-area: terNot;
+}
