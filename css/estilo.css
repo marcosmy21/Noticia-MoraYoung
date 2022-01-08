@@ -44,6 +44,9 @@
   display: flex;
   justify-content: center; }
 
+.mas {
+  color: black; }
+
 .imgTwitter {
   width: 2vw;
   padding-top: 5vw; }
@@ -72,10 +75,11 @@
   padding-left: 3vw; }
 
 /*PAGINA*/
-.imgPagina {
-  padding-left: 39vw;
-  padding-top: 12vw;
-  padding-bottom: 12vw; }
+.imgXboxPagina {
+  padding-left: 10vw;
+  padding-top: 4vw;
+  padding-bottom: 4vw;
+  width: 80vw; }
 
 /*QUE HACEMOS?*/
 .imgRedactando {
@@ -95,7 +99,7 @@
     display: grid;
     grid-template-areas: "logo" "suscribirse" "claseX" "copyrightJe";
     grid-auto-rows: 15vw 50vw 35vw 40vw;
-    grid-template-columns: 121%; }
+    grid-template-columns: 107%; }
   .logoFooter {
     grid-area: logo; }
   .suscribirse {
@@ -180,7 +184,7 @@
   display: flex; }
 
 .h6footer {
-  font-size: 1vw !important; }
+  font-size: 2vw !important; }
 
 .claseX {
   padding-top: 4vw;
